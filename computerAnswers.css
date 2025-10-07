@@ -644,7 +644,7 @@
     position: absolute;
     z-index: 500;
     background-color: #1c232a4e;
-    height: 500%;
+    height: 1000%;
     width: 100%;
     display: none;
     justify-content: center;
@@ -1110,3 +1110,4 @@
   transform: scale(1.02);
   z-index: 2;
 }
+
